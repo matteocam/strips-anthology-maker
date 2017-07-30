@@ -1,3 +1,4 @@
 # strips-antology-maker
-Extracts strips from web pages and put them together in a pdf.
+Extracts strips from web pages and combines them in a pdf.
+
 For educational purposes only.
